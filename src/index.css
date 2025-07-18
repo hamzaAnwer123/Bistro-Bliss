@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: DMSans;
+    src: url("/fonts/DMSans_24pt-Medium.ttf");
+}
+@font-face {
+    font-family: layfairDisplay;
+    src: url("/fonts/PlayfairDisplay-Medium.ttf");
+}
+
+.heading{
+    font-family: layfairDisplay , sans-serif;
+}
+.text-font{
+    font-family: DMSans , sans-serif;
+}
+body{
+    font-family: DMSans , sans-serif;
+}

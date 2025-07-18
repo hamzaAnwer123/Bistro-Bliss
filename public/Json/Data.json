@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "image": "/images/Mask group (12).png",
+      "price": 9.99,
+      "name": "Fried Eggs",
+      "short_description": "Sunny-side-up farm-fresh eggs served with crispy golden toast and a side of fresh greens",
+      "description": "Start your morning with a classic breakfast delight—our Fried Eggs, prepared to perfection with a sunny-side-up style that’s sure to brighten your day. We take two farm-fresh eggs and fry them gently in a touch of golden butter until the whites are just set and the yolks remain gloriously runny, perfect for dipping. Served alongside a slice of artisan sourdough bread, toasted to a crisp golden brown, this dish is complemented by a small side of fresh mixed greens, lightly dressed with a zesty lemon vinaigrette. The simplicity of this dish allows the natural flavors of the eggs to shine, while the toast adds a satisfying crunch and the greens bring a burst of freshness to every bite. Whether you're enjoying a leisurely brunch or need a quick yet wholesome breakfast, our Fried Eggs are a timeless choice that never fails to comfort and satisfy.",
+      "category": "Breakfast"
+    },
+    {
+      "id": 2,
+      "image": "/images/Mask group (5).png",
+      "price": 15.99,
+      "name": "Hawaiian Pizza",
+      "short_description": "Hand-stretched pizza topped with smoky ham, sweet pineapple chunks, and gooey mozzarella cheese",
+      "description": "Indulge in a slice of tropical paradise with our Hawaiian Pizza, a crowd-pleaser that perfectly balances sweet and savory flavors. We start with a hand-stretched dough, made fresh daily, and top it with a rich, tangy tomato sauce that’s simmered with a blend of Italian herbs for that authentic pizza taste. Generous layers of gooey mozzarella cheese melt beautifully over the base, creating a creamy canvas for the star ingredients: smoky, thinly sliced ham and juicy, golden pineapple chunks. The ham brings a savory depth, while the pineapple adds a burst of sweetness that caramelizes slightly as the pizza bakes in our wood-fired oven, giving the crust a delightful crispness. Each bite offers a harmonious blend of flavors, with the cheese stretching just right and the toppings dancing on your palate. Perfect for sharing with friends or savoring solo, this Hawaiian Pizza is a tropical escape on a plate, ideal for lunch, dinner, or a casual pizza night at home.",
+      "category": "Main Dishes"
+    },
+    {
+      "id": 3,
+      "image": "/images/Mask group (14).png",
+      "price": 7.50,
+      "name": "Martini Cocktail",
+      "short_description": "Classic martini made with premium gin, dry vermouth, and a lemon twist or olive garnish",
+      "description": "Unwind with the sophisticated elegance of our Martini Cocktail, a timeless drink that’s both crisp and invigorating. Crafted with the finest ingredients, this classic cocktail starts with a premium gin, known for its smooth botanical notes, which we carefully mix with a splash of dry vermouth to create a perfectly balanced flavor profile. The mixture is stirred—not shaken—to preserve its clarity and ensure a silky texture, then poured into a chilled martini glass that enhances the drinking experience. For the finishing touch, we garnish it with either a delicate lemon twist, which adds a subtle citrusy brightness, or a single, plump olive, offering a briny contrast that complements the gin’s complexity. The first sip reveals a crisp, clean taste with a hint of herbaceousness, followed by a smooth finish that lingers just long enough to entice you back for more. Whether you’re celebrating a special occasion or simply unwinding after a long day, our Martini Cocktail is the epitome of refined refreshment, designed to elevate any moment.",
+      "category": "Drinks"
+    },
+    {
+      "id": 4,
+      "image": "/images/Mask group (15).png",
+      "price": 20.99,
+      "name": "Butterscotch Cake",
+      "short_description": "Rich butterscotch layered cake with creamy frosting and a warm caramel drizzle on top",
+      "description": "Treat yourself to a slice of heaven with our Butterscotch Cake, a dessert that’s as indulgent as it is unforgettable. This masterpiece begins with layers of moist, fluffy vanilla sponge cake, baked to a tender perfection that practically melts in your mouth. Each layer is generously filled and frosted with a luscious butterscotch frosting, made from scratch using real brown sugar and cream, which gives it a deep, caramel-like richness that’s both sweet and slightly nutty. The frosting is whipped to a velvety consistency, ensuring it spreads smoothly over the cake, creating a glossy finish that’s almost too beautiful to cut into. To elevate the experience, we drizzle the top with a warm caramel sauce that cascades down the sides, adding a sticky-sweet contrast to the cake’s soft texture. Every bite is a symphony of flavors—sweet, creamy, and just a touch salty from the butterscotch, with the cake providing a light, airy balance. Perfect for birthdays, celebrations, or simply satisfying a sweet craving, our Butterscotch Cake is a decadent delight that will leave you dreaming of the next slice.",
+      "category": "Desserts"
+    },
+    {
+      "id": 5,
+      "image": "/images/Mask group (16).png",
+      "price": 5.89,
+      "name": "Smoothie",
+      "short_description": "Fresh fruit smoothie with strawberries, bananas, mangoes, and a splash of orange juice",
+      "description": "Refresh and recharge with our Fresh Fruit Smoothie, a vibrant blend of nature’s finest ingredients designed to invigorate your senses. We start with a medley of ripe, juicy strawberries, picked at the peak of their sweetness, and pair them with creamy, ripe bananas that add a natural smoothness to the texture. To bring a tropical flair, we toss in chunks of succulent mango, which lend a bright, sunny sweetness that transports you to a beachside paradise with every sip. A splash of freshly squeezed orange juice ties it all together, adding a zesty tang that balances the sweetness and enhances the smoothie’s refreshing quality. Blended until perfectly smooth, this drink is thick enough to satisfy but light enough to feel like a burst of energy in a glass. Whether you’re sipping it as a post-workout boost, a mid-afternoon pick-me-up, or a healthy breakfast on the go, our Fresh Fruit Smoothie is a guilt-free indulgence that nourishes both body and soul, leaving you refreshed and ready to take on the day.",
+      "category": "Drinks"
+    },
+    {
+      "id": 6,
+      "image": "/images/Mask group (17).png",
+      "price": 18.05,
+      "name": "Choco Icecream",
+      "short_description": "Creamy chocolate ice cream made with real cocoa and sprinkled with tiny chocolate chips",
+      "description": "Dive into pure bliss with our Choco Icecream, a dessert that’s every chocolate lover’s dream come true. This rich and creamy treat is crafted with the finest cocoa powder, sourced from the best regions, to deliver an intense chocolate flavor that’s both deep and decadent. We churn the ice cream slowly to achieve a velvety-smooth texture that glides across your palate, ensuring every spoonful is a moment of pure indulgence. To elevate the experience, we fold in tiny chocolate chips that add a delightful crunch, providing a perfect contrast to the ice cream’s creaminess. The result is a dessert that’s rich without being overwhelming, with a balanced sweetness that keeps you coming back for more. Served in a chilled bowl to maintain its perfect consistency, our Choco Icecream is garnished with a light sprinkle of cocoa powder for an extra touch of elegance. Whether you’re cooling off on a hot day, satisfying a late-night craving, or simply treating yourself to something special, this chocolate ice cream is a timeless classic that promises to delight with every bite.",
+      "category": "Desserts"
+    },
+    {
+      "id": 7,
+      "image": "/images/Mask group (18).png",
+      "price": 12.55,
+      "name": "Cheese Burger",
+      "short_description": "Juicy grilled beef burger with melted cheddar cheese, fresh veggies, and a toasted brioche bun",
+      "description": "Savor the ultimate comfort food with our Cheese Burger, a hearty classic that’s packed with flavor in every bite. We start with a premium beef patty, hand-formed and grilled to perfection over an open flame, ensuring a juicy, tender interior with a slightly charred exterior that locks in all the savory goodness. Melted atop the patty is a generous slice of sharp cheddar cheese, which oozes down the sides as it warms, creating a creamy, tangy layer that complements the beef beautifully. Nestled in a soft, toasted brioche bun, the burger is layered with crisp, fresh lettuce, ripe tomato slices, and thinly sliced red onions, all of which add a satisfying crunch and a burst of freshness to balance the richness. A dollop of our signature house-made sauce— a blend of tangy mayo, ketchup, and a hint of pickle relish—ties it all together, adding a zesty kick that elevates the flavors to the next level. Served with a side of golden fries or a small garden salad, our Cheese Burger is the perfect choice for a satisfying lunch or dinner, whether you’re dining in or grabbing a quick meal on the go.",
+      "category": "Main Dishes"
+    },
+    {
+      "id": 8,
+      "image": "/images/Mask group (19).png",
+      "price": 12.99,
+      "name": "Choco Waffle",
+      "short_description": "Fluffy waffle drizzled with melted dark chocolate, fresh strawberries, and a dollop of whipped cream",
+      "description": "Indulge in a breakfast-turned-dessert experience with our Choco Waffle, a treat that’s as delightful to look at as it is to eat. We start with a freshly made waffle batter, enriched with a hint of vanilla, and cook it to golden perfection on a hot iron, resulting in a waffle that’s crispy on the outside and soft and fluffy on the inside. While still warm, we generously drizzle the waffle with a rich, melted chocolate sauce, made from high-quality dark chocolate that melts into every crevice, creating a glossy, irresistible coating. To add a pop of color and flavor, we top it with a handful of fresh, juicy strawberries, their bright red hue contrasting beautifully with the dark chocolate. A dollop of freshly whipped cream crowns the creation, adding a light, airy sweetness that balances the richness of the chocolate. Each bite offers a perfect harmony of textures and tastes—the crisp waffle, the smooth chocolate, the burst of fresh berries, and the creamy whipped topping. Whether you’re treating yourself to a decadent breakfast, a mid-afternoon snack, or a late-night dessert, our Choco Waffle is a luxurious escape that will leave you smiling with every bite.",
+      "category": "Desserts"
+    }
+  ]
